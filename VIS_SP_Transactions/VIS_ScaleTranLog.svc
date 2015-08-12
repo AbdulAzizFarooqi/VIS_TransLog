@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="VIS_SP_Transactions.VIS_ScaleTranLog" CodeBehind="VIS_ScaleTranLog.svc.cs" %>
